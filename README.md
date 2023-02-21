@@ -1,5 +1,5 @@
 <h1>Star Sojourner | 2023 GATSA Webmaster</h1>
-<p>Website can be accessed at <a href="www.starsojourner.sfhscyberpatriot.live" target="_blank">www.starsjourner.sfhscyberpatriot.live</a>.</p>
+<p>Website can be accessed at <a href="https://www.starsojourner.sfhscyberpatriot.live" target="_blank">www.starsjourner.sfhscyberpatriot.live</a>.</p>
 <hr>
 <p>Tools Used:</p>
 <ul>
